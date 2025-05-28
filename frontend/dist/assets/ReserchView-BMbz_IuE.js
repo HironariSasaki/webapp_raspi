@@ -1,0 +1,1 @@
+import{_ as s,a as o,b as t,o as a}from"./index-BTTA-Ro-.js";const c={},n={class:"container"};function r(_,e){return a(),o("div",n,e[0]||(e[0]=[t("h1",null,"研究",-1)]))}const f=s(c,[["render",r],["__scopeId","data-v-eb39fea7"]]);export{f as default};

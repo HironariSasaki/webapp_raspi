@@ -1,0 +1,1 @@
+import{_ as s,a as c,b as o,o as t}from"./index-BTTA-Ro-.js";const a={},n={class:"container"};function r(_,e){return t(),c("div",n,e[0]||(e[0]=[o("h1",null,"アクセス",-1)]))}const i=s(a,[["render",r],["__scopeId","data-v-c45801b5"]]);export{i as default};
